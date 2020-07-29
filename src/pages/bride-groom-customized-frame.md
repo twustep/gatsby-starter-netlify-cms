@@ -10,4 +10,7 @@ hero:
     - text: Choose your mini people
     - text: Include a customized message
 etsyurl: https://www.etsy.com/listing/705019073/bride-and-groom-frame-lego-wedding-gift
+media:
+  - image: /img/detail.jpg
+    hero-image-alt: Image of frame with lego couple displayed on a table.
 ---
