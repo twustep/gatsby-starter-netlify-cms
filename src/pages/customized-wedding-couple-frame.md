@@ -10,4 +10,5 @@ hero:
     - text: Include a customized message and names
     - text: Choose your mini people
     - text: Perfect for wedding gift or keepsake
+etsyurl: https://www.etsy.com/listing/729180455/lego-wedding-couple-frame-black-with
 ---
