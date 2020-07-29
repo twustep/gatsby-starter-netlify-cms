@@ -9,4 +9,5 @@ hero:
     - text: Perfect for wedding gift or keepsake
     - text: Choose your mini people
     - text: Include a customized message
+etsyurl: https://www.etsy.com/listing/705019073/bride-and-groom-frame-lego-wedding-gift
 ---
