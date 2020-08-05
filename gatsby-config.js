@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Personalized Wedding Gifts - Marco & Bella',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Classic Lego® bride and groom gift frame. Personalized couple with faces, hair, suit and message. Presented inside a black 8.5x8.5in wood frame, with denim background.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -69,7 +69,7 @@ module.exports = {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
         develop: true, // Activates purging in npm run develop
-        purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
+        purgeOnly: ['/scss/main.scss'], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
