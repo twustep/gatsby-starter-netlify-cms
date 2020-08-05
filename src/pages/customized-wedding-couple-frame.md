@@ -20,7 +20,7 @@ details:
   imagealt: "Close up of couple frame. "
   bullets:
     - text: Lego® bride and groom minifigs
-    - text: Bride & groom encased in 8.5x8.5in black wooden frame
+    - text: Bride & groom encased in 15" x 7" black frame
     - text: Choose from different hair, face, and attire options
     - text: Denim background
     - text: Personalized names or message
