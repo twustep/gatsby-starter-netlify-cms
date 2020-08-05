@@ -3,8 +3,8 @@ templateKey: product
 title: Customized Wedding Couple Frame
 hero:
   image: /img/hero_3_frame.png
-  imagealt: Image of frame with lego couple in the center with two custom
-    pictures on each side.
+  imagealt: Image of frame with lego couple in the center with two custom pictures
+    on each side.
   bullets:
     - text: Make your own creation with Lego® bridesmaids and groomsmen
     - text: Include a customized message and names
@@ -13,10 +13,10 @@ hero:
 buttontext: Order Here
 etsyurl: https://www.etsy.com/listing/729180455/lego-wedding-couple-frame-black-with
 media:
-  - image: /img/detail.jpg
+  - image: /img/frame_media_1.jpg
     imagealt: Image of frame with lego couple displayed on a table.
 details:
-  image: /img/detail_1.jpg
+  image: /img/detail_hero_frame.jpg
   imagealt: "Close up of couple frame. "
   bullets:
     - text: Lego® bride and groom minifigs
